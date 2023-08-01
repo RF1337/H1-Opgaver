@@ -1,0 +1,15 @@
+C:\Users\zbcrafe\source\repos\BMIUdregner\bin\Debug\net6.0\BMIUdregner.exe
+C:\Users\zbcrafe\source\repos\BMIUdregner\bin\Debug\net6.0\BMIUdregner.deps.json
+C:\Users\zbcrafe\source\repos\BMIUdregner\bin\Debug\net6.0\BMIUdregner.runtimeconfig.json
+C:\Users\zbcrafe\source\repos\BMIUdregner\bin\Debug\net6.0\BMIUdregner.dll
+C:\Users\zbcrafe\source\repos\BMIUdregner\bin\Debug\net6.0\BMIUdregner.pdb
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.csproj.AssemblyReference.cache
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.AssemblyInfoInputs.cache
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.AssemblyInfo.cs
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.csproj.CoreCompileInputs.cache
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.dll
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\refint\BMIUdregner.dll
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.pdb
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\BMIUdregner.genruntimeconfig.cache
+C:\Users\zbcrafe\source\repos\BMIUdregner\obj\Debug\net6.0\ref\BMIUdregner.dll
