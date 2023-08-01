@@ -1,0 +1,15 @@
+C:\Users\zbcrafe\source\repos\FordelingsHatten\bin\Debug\net6.0\FordelingsHatten.exe
+C:\Users\zbcrafe\source\repos\FordelingsHatten\bin\Debug\net6.0\FordelingsHatten.deps.json
+C:\Users\zbcrafe\source\repos\FordelingsHatten\bin\Debug\net6.0\FordelingsHatten.runtimeconfig.json
+C:\Users\zbcrafe\source\repos\FordelingsHatten\bin\Debug\net6.0\FordelingsHatten.dll
+C:\Users\zbcrafe\source\repos\FordelingsHatten\bin\Debug\net6.0\FordelingsHatten.pdb
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.csproj.AssemblyReference.cache
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.AssemblyInfoInputs.cache
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.AssemblyInfo.cs
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.csproj.CoreCompileInputs.cache
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.dll
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\refint\FordelingsHatten.dll
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.pdb
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\FordelingsHatten.genruntimeconfig.cache
+C:\Users\zbcrafe\source\repos\FordelingsHatten\obj\Debug\net6.0\ref\FordelingsHatten.dll
