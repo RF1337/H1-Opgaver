@@ -1,0 +1,15 @@
+C:\Users\zbcrafe\source\repos\Superheltene\bin\Debug\net6.0\Superheltene.exe
+C:\Users\zbcrafe\source\repos\Superheltene\bin\Debug\net6.0\Superheltene.deps.json
+C:\Users\zbcrafe\source\repos\Superheltene\bin\Debug\net6.0\Superheltene.runtimeconfig.json
+C:\Users\zbcrafe\source\repos\Superheltene\bin\Debug\net6.0\Superheltene.dll
+C:\Users\zbcrafe\source\repos\Superheltene\bin\Debug\net6.0\Superheltene.pdb
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.csproj.AssemblyReference.cache
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.AssemblyInfoInputs.cache
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.AssemblyInfo.cs
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.csproj.CoreCompileInputs.cache
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.dll
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\refint\Superheltene.dll
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.pdb
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\Superheltene.genruntimeconfig.cache
+C:\Users\zbcrafe\source\repos\Superheltene\obj\Debug\net6.0\ref\Superheltene.dll
