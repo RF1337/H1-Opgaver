@@ -1,0 +1,15 @@
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.csproj.AssemblyReference.cache
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.AssemblyInfoInputs.cache
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.AssemblyInfo.cs
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.csproj.CoreCompileInputs.cache
+C:\Users\zbcrafe\source\repos\TheFirm\bin\Debug\net6.0\TheFirm.exe
+C:\Users\zbcrafe\source\repos\TheFirm\bin\Debug\net6.0\TheFirm.deps.json
+C:\Users\zbcrafe\source\repos\TheFirm\bin\Debug\net6.0\TheFirm.runtimeconfig.json
+C:\Users\zbcrafe\source\repos\TheFirm\bin\Debug\net6.0\TheFirm.dll
+C:\Users\zbcrafe\source\repos\TheFirm\bin\Debug\net6.0\TheFirm.pdb
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.dll
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\refint\TheFirm.dll
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.pdb
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\TheFirm.genruntimeconfig.cache
+C:\Users\zbcrafe\source\repos\TheFirm\obj\Debug\net6.0\ref\TheFirm.dll
